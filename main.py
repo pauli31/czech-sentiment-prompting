@@ -58,13 +58,6 @@ def main():
 
 
 
-# TODO pridat parametr na preskoceni prvnich n filu a na navazani podle daneho filu aby to do nej dal zapisovalo
-# todo PRIDAT TAM PARAMETR ATTENTION na local run
-# TODO udelat dalsi ucet a pustit to dvakrat
-
-# TODO pro vsechny datasety u in_context zkontrolvoat ze se vygenerovaly vsechny examply
-# TODO az budu poustet in_context tak zkontrlovat
-# TODO u openai zkontrolovat vsechny prompty az je budu poustet
 
 if __name__ == '__main__':
     # sys.argv.extend(['--dataset_name', 'sst'])
