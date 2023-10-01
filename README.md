@@ -1,2 +1,2 @@
 # czech-sentiment-prompting
-pauli31@seznam.cz
+Sentiment repository for prompting with llama and ChatGPT
